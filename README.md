@@ -3,7 +3,7 @@
   <div>
     <a href="mailto:alexsavone@yandex.ru">
       <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge" height="50" />
-    </a>
+    </a><p></p>
     <a href="https://t.me/alex_sav_one">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" height="50" />
     </a>
