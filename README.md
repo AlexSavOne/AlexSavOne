@@ -2,13 +2,12 @@
   <h1>Привет! Меня зовут Саша <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
   <div>
     <a href="mailto:alexsavone@yandex.ru">
-      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge" height="50" />
+      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge" height="30" />
     </a>
     <a href="https://t.me/alex_sav_one">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" height="50" />
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" height="30" />
     </a>
   </div>
-  <h3>Активно ищу работу или стажировку🚀</h3>
 </div>
 
 ---
