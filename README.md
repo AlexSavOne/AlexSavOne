@@ -1,15 +1,10 @@
-<div id="header" align="center">
-  <h1>Привет! Меня зовут Саша <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
-  <div>
-    <span>
-      <a href="mailto:alexsavone@yandex.ru" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge" height="30" />
-      </a>
-    </span>
-    <a href="https://t.me/alex_sav_one">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" height="30" />
-    </a>
-  </div>
+<h1 align="center">Привет! Меня зовут Саша <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
+
+<div align="center">
+  
+[![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsavone@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alex_sav_one)
+
 </div>
 
 ---
