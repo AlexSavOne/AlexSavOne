@@ -12,8 +12,9 @@
 ### :man_technologist: Обо мне :
 
 - В сентябре 2024 закончил обучение на Frontend-разработчика в Яндекс Практикуме.
+- Я начинающий frontend-разработчик, увлечённый самообразованием и развитием навыков в области фронтенда.
 - Продолжаю обучаться и углублять знания. Учусь на Хекслете для укрепления знаний фронтенд-разработки.
-- Очень замотивирован к развитию во фронте. Моя цель - достичь высоких позиций в IT, продвигаясь до уровня Senior-разработчика и выше. Я готов к долгосрочному профессиональному росту и открыт для новых возможностей.
+- Моя цель - достичь высоких позиций в IT, продвигаясь до уровня Senior-разработчика и выше.
 
 ---
 
@@ -33,6 +34,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="50" height="50" />
 </div>
 
+---
+
+### :rocket: Интересные проекты:
+
+- Онлайн-магазин бургеров: [GitHub](https://github.com/AlexSavOne/stellar-burger) React, TypeScript, Jest, Cypress, Webpack, Git, npm.  
+  Реализовал функционал регистрации профиля, создания заказа, управления ингредиентами и авторизацию.
+
+- Вычислитель отличий: [GitHub](https://github.com/AlexSavOne/frontend-project-46) JavaScript, Node.js, Commander.js, Jest, ESLint, Git, Make.  
+  Разработал консольную утилиту для нахождения различий между структурами данных с поддержкой форматов yaml и json.
+
+- Аналог Instagram: [GitHub](https://github.com/AlexSavOne/mesto-project-ff) HTML, CSS, JavaScript, npm, Webpack, Babel, Git.  
+  Реализовал редактирование профиля, добавление фото и систему лайков.
+  
 ---
 
 ### :fire: Моя статистика :
