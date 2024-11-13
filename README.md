@@ -36,7 +36,7 @@
 
 ---
 
-### :rocket: Интересные проекты:
+### :clipboard: Интересные проекты:
 
 - Онлайн-магазин бургеров: [GitHub](https://github.com/AlexSavOne/stellar-burger) *React, TypeScript, Jest, Cypress, Webpack, Git, npm.*  
   Реализовал функционал регистрации профиля, создания заказа, управления ингредиентами и авторизацию.
@@ -53,3 +53,25 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexSavOne&theme=buefy&hide_border=true&locale=ru&card_width=520&card_height=160)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSavOne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :trophy: Мои достижения:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexSavOne&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### :seedling: В планах:
+
+- Углублять знания во фронтенд-разработке, особенно в React.
+- Освоить новые инструменты и технологии для создания качественных пользовательских интерфейсов.
+- Продолжать самообразование через изучение материалов, участие в вебинарах и онлайн-конференциях.
+- Развивать навыки программирования через практические проекты и постоянное обучение.
+
+---
+
+### :sparkles: Контакты:
+
+- Email: [alexsavone@yandex.ru](mailto:alexsavone@yandex.ru)
+- Telegram: [@alex_sav_one](https://t.me/alex_sav_one)
