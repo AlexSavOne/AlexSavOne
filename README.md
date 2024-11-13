@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://downloader.disk.yandex.ru/preview/f833a2379b38e2b6fc531f238665fd9cc0dfacb766b2146d5c61477fbfa88437/6734c2b9/Z4u0dHDWeT1vdaKs881ZO_D-w2couU94RJf7q-DYpJuscGkAeo4Y46N-T7oWdveYsa8spqX9oVQL-tj8Sd7ufw%3D%3D?uid=0&filename=painting-mountain-lake-with-mountain-background.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x929" alt="Vaporwave Background" width="100%" />
+</div>
+
+---
+
 <h1 align="center">Привет! Меня зовут Саша <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
 
 <div align="center">
